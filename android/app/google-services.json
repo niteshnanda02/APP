@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297710591977",
+    "firebase_url": "https://courcer-firebase.firebaseio.com",
+    "project_id": "courcer-firebase",
+    "storage_bucket": "courcer-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297710591977:android:9a493d57daebf761",
+        "android_client_info": {
+          "package_name": "com.example.courser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297710591977-uf5m9pe3c39qosi0l0vfel55v8cnvig5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRYW8HD__8cPCIRVxjJ3CnSGVtIuSHS_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297710591977-uf5m9pe3c39qosi0l0vfel55v8cnvig5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
